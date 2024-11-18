@@ -13,8 +13,11 @@ The project involves:
 You will need the following tools:
 
 •	Google Cloud SDK
+
 •	Google Cloud Account
+
 •	Docker
+
 •	Git
 
 **Steps to Containerize the Application**
