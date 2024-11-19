@@ -62,5 +62,4 @@ Step 5: Deploy container image on cloud run
 
 	      Command for Run and deploy : gcloud run deploy –image gcr.io/set up a virtualized environment using Docker/      container_image
 
-Access the application:
-https://my-project-7091581590.europe-west1.run.app/
+
